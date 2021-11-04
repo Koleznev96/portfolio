@@ -40,7 +40,7 @@ export const CreatPost = ({uploadHandler}) => {
             />
             <div className={s.wrapper}>
                 {image ? (
-                    <img src={'http://localhost:5000/' + image.url} alt="Social Network" className={s.image}/>
+                    <img src={'https://koleznev96.herokuapp.com/' + image.url} alt="Social Network" className={s.image}/>
                 ) : (
                     <div className={s.button_photo}>
                         <input className={s.step} type="file" name="myImage" onChange={(event) => uploadImg(event)} />

@@ -97,7 +97,7 @@ export const ChatProvider = ({children, ...props}) => {
 
     useEffect(() => {
         if (!!profile.token) {
-            socketRef.current = io('http://localhost:3000', {
+            socketRef.current = io('https://koleznev96.herokuapp.com', {
                 query: { login: profile.login }
             });
             socketRef.current.on('chat', (data) => {

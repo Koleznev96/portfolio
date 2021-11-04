@@ -30,7 +30,7 @@ export const Post = ({data}) => {
             </div>
             <div className={s.content_text}>{text}</div>
             <div className={s.content__images}>
-                {images?.map(image => <img src={'http://localhost:5000/' + image} alt="Social Network" className={s.image} key={data._id}/>)}
+                {images?.map(image => <img src={'https://koleznev96.herokuapp.com/' + image} alt="Social Network" className={s.image} key={data._id}/>)}
             </div>
             <div
                 className={s.button_like + (isLike ? (' ' + s.button_like_active) : '')}
