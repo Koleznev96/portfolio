@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bae700d3-a891-4b14-ba8c-dd7b5824f34d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="20JQR6faYKpBc54cxSspZLR7i8w" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.17.3" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.17.3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../xacatons/хакатон 08.10.2021/client" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\freelance\portfolio\client\public" />
+      <recent name="C:\freelance\portfolio\client\src\Portfolio\pages\Home\components" />
+      <recent name="C:\freelance\portfolio\src\api\portfolio" />
+      <recent name="C:\freelance\portfolio\client\src\Portfolio\assets\images" />
+      <recent name="C:\freelance\portfolio\client\src\globalAssets\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\freelance\portfolio\client\src\sites" />
+      <recent name="C:\freelance\portfolio\client\src\globalComponents\PopapAuth" />
+      <recent name="C:\freelance\portfolio\src" />
+      <recent name="C:\freelance\portfolio" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bae700d3-a891-4b14-ba8c-dd7b5824f34d" name="Default Changelist" comment="" />
+      <created>1635760199857</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635760199857</updated>
+      <workItem from="1635760201162" duration="18676000" />
+      <workItem from="1635816630143" duration="51729000" />
+      <workItem from="1635904081082" duration="31775000" />
+      <workItem from="1635945788748" duration="801000" />
+      <workItem from="1635995893710" duration="21830000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="480" y="170" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1636007843679">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="480" y="170" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1636007843679" />
+    <state x="2370" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/1920.0.1440.860@1920.0.1440.860" timestamp="1635761023541" />
+    <state x="2309" y="208" key="EditFileWatcherDialog" timestamp="1635765180023">
+      <screen x="1920" y="0" width="1440" height="860" />
+    </state>
+    <state x="2309" y="208" key="EditFileWatcherDialog/0.0.1536.824/1920.0.1440.860@1920.0.1440.860" timestamp="1635765180023" />
+    <state x="533" y="177" key="FileChooserDialogImpl" timestamp="1636031118405">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="533" y="177" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1636031118405" />
+    <state x="2420" y="185" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1440.860@1920.0.1440.860" timestamp="1635760265748" />
+    <state x="455" y="156" width="631" height="534" key="find.popup" timestamp="1635910461072">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="455" y="156" width="631" height="534" key="find.popup/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1635910461072" />
+    <state x="2347" y="163" width="585" height="534" key="find.popup/0.0.1536.824/1920.0.1440.860@1920.0.1440.860" timestamp="1635773908436" />
+    <state x="401" y="187" key="run.anything.popup" timestamp="1636011039011">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="401" y="187" key="run.anything.popup/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1636011039011" />
+    <state x="2296" y="195" key="run.anything.popup/0.0.1536.824/1920.0.1440.860@1920.0.1440.860" timestamp="1635770118567" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1635867980284">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1635867980284" />
+  </component>
+</project>

@@ -1,0 +1,42 @@
+.root {
+  height: 52px;
+  min-width: 463px;
+  width: 100%;
+  background: #fff;
+  padding: 25px 30px 10px 25px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.avatar {
+  width: 24px;
+  height: 24px;
+  border-radius: 100%;
+  margin-right: 12px;
+  background: #A03FBF;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 28px;
+  color: #FFFFFF;
+}
+
+.name {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #031426
+}
+
+.button {
+  cursor: pointer;
+}

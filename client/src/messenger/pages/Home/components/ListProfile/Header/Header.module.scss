@@ -1,0 +1,163 @@
+.root {
+  padding: 10px 12px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+  position: relative;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 64px;
+}
+
+.search {
+  padding: 10px 12px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #fff;
+  margin-bottom: 10px;
+  border-radius: 7px 0 0 0;
+}
+
+.button {
+  cursor: pointer;
+}
+
+.search_str {
+  width: 250px;
+  border: 0;
+  border-bottom: 1px solid #828282;
+  display: block;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #212529;
+  background-clip: padding-box;
+  outline:none;
+}
+
+.scroll_search {
+  position: absolute;
+  top: 128px;
+  width: 337px;
+  padding: 10px 0;
+  background: #fff;
+  z-index: 1002;
+  border-radius: 0 0 12px 12px;
+}
+
+.search_info {
+  height: 44px;
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+  padding: 0 20px;
+  z-index: 1004;
+  background: #fff;
+}
+
+.profile {
+  height: 44px;
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  padding: 0 20px;
+  z-index: 1004;
+  background: #fff;
+  cursor: pointer;
+
+
+  &:hover {
+    background: rgba(0, 0, 0, 0.06);
+  }
+
+  .profile__avatar {
+    width: 32px;
+    height: 32px;
+    border-radius: 100%;
+    background: #A03FBF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    color: #FFFFFF;
+  }
+
+  .profile__info__name {
+    margin-left: 12px;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 15px;
+    color: #031426;
+  }
+
+  .profile__info__message {
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+  }
+}
+
+.search_error {
+  width: 100%;
+  text-align: center;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 15px;
+  color: #031426;
+}
+
+.menu_button {
+  position: absolute;
+  height: 32px;
+  top: 10px;
+  right: 20px;
+  z-index: 1004;
+  background: #fff;
+  border-radius: 4px;
+  padding: 5px 5px;
+  width: 32px;
+}
+
+.menu {
+  width: 80px;
+  position: absolute;
+  top: 46px;
+  right: 20px;
+  z-index: 1004;
+  background: #fff;
+  border-radius: 4px;
+  justify-content: center;
+
+  .menu__item {
+    padding: 2px 0;
+    height: 20px;
+    text-align: center;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 15px;
+    color: #031426;
+    cursor: pointer;
+
+    &:hover {
+      background: rgba(0, 0, 0, 0.06);
+    }
+  }
+}
+
+.button_exit_menu {
+  cursor: pointer;
+}
+
+.wrapper_liner {
+  display: flex;
+  justify-content: space-between;
+}

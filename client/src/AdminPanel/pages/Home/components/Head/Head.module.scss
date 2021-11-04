@@ -1,0 +1,67 @@
+.root {
+  width: 100%;
+  margin-bottom: 18px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.name {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 22px;
+  color: #1F4173;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.button_edit {
+  height: 36px;
+  background: #E0E5ED;
+  border-radius: 16px;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  padding: 10px 12px;
+  margin-right: 22px;
+  cursor: pointer;
+
+  &:hover {
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.15);
+  }
+}
+
+.button_edit_name {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #1F4173;
+  margin-left: 5px;
+}
+
+.button_filter {
+  height: 36px;
+  border-radius: 16px;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  padding: 10px 12px;
+  margin-right: 22px;
+  cursor: pointer;
+
+  &:hover {
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.15);
+  }
+}
+
+.button_filter_name {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #1F4173;
+}
+

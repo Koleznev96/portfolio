@@ -1,0 +1,22 @@
+*,
+*:after,
+*:before {
+  box-sizing: border-box;
+}
+
+.global_container {
+  height: 100%;
+  min-height: 100vh;
+  background: #F5F7FB;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding-top: 0;
+}

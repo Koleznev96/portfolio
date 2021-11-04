@@ -1,0 +1,134 @@
+.container {
+  margin-top: 2px;
+  width: 100%;
+}
+
+.bottom_info {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 16px;
+  color: #1F4173;
+  display: flex;
+}
+
+.open__bottom {
+  background: #fff;
+  width: 100%;
+
+  .open__bottom__wrapper {
+    justify-content: center;
+    display: flex;
+    height: 95px;
+  }
+}
+
+.header_text {
+  margin-top: 24px;
+}
+
+.header_info {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+  color: #1F4173;
+}
+
+.klop {
+  margin-top: 8px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.hr {
+  width: 40px;
+  height: 2px;
+  background: #71C20F;
+  border-radius: 0px 0px 5px 5px;
+}
+
+.bottom__body {
+  height: 100%;
+  align-items: center;
+  max-width: 860px;
+  margin: -10px auto;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.profile__img {
+  width: 276px;
+  height: 230px;
+  margin-right: 140px;
+}
+
+.info {
+  margin-top: -10px;
+
+  .info__name {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 28px;
+    color: #1F4173
+  }
+
+  .info__name_stack {
+    margin-top: 16px;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 21px;
+    color: #1F4173;
+    margin-bottom: 6px;
+  }
+
+  .info__staks {
+    justify-content: start;
+    display: flex;
+  }
+
+  .info__info {
+    margin-top: 18px;
+    justify-content: space-between;
+    display: flex;
+
+    .info__info__wrapper {
+      margin-right: 11px;
+    }
+    .info__info__name {
+      margin-top: 4px;
+      font-weight: 600;
+      font-size: 14px;
+      line-height: 16px;
+      color: #1F4173;
+    }
+    .info__info__value {
+      font-weight: 400;
+      font-size: 14px;
+      line-height: 14px;
+      color: #1F4173;
+      margin-top: 6px;
+      margin-right: 5px;
+    }
+  }
+}
+
+.stack_block {
+  margin-top: 6px;
+  margin-right: 6px;
+  background: #71C20F;
+  border-radius: 20px;
+  padding: 3px 10px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  max-width: 100px;
+  height: 21px;
+
+  .stack_block__name {
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 15px;
+    color: #FFFFFF;
+    max-width: 200px;
+  }
+}
