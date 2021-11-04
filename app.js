@@ -2,6 +2,7 @@ const express = require('express');
 const mongoose = require('mongoose');
 const passport = require('passport');
 const bodyParser = require('body-parser');
+const path = require('path');
 
 const authRoute = require('./src/api/auth');
 const socialNetworkRoute = require('./src/api/socialNetwork');
@@ -32,6 +33,13 @@ app.use('/api/messenger', messengerRoute);
 app.use('/api/admin_panel', adminPanelRoute);
 app.use('/api/portfolio', portfolioRoute);
 
+// if (process.env.NODE_ENV === 'production') {
+app.use('/', express.static(path.join(__dirname, 'client', 'build')));
+
+app.get('*', (req, res) => {
+    res.sendFile(path.resolve(__dirname, 'client', 'build', 'index.html'));
+});
+// }
 
 const server = http.createServer(app);
 

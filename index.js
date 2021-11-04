@@ -30,4 +30,4 @@ const start = async () => {
     }, 7200000);
 }
 
-start();
+// start();
